@@ -1,0 +1,19 @@
+SIGLA
+
+D = cod. Laurentianus Ashburnhamianus 33
+E = cod. Brit. Mus. Add. 10084
+F: cod. Florent. Riccardianus 541
+L = cod. Mediceus Laurentianus 8 plut. 68
+Τ ; cod. Paris. Lat. 5764
+U= cod. vatican. Lat. 3324
+V= cod. Vindobonensis 95
+Δ = cod. Dresdensis 122
+δ = cod. Dresdensis 83
+λ = cod. Leidensis 38 D
+l z cod. Mediceus Laurentianus 6 plut. 68 (saec. xiii,
+ab L pendens)
+r = ed. princeps Romana A. S. 1469
+D¹‚ D² z manus prima, secunda codicis D
+D corr. = correctio manu prima facta
+D var, = varia lectio in D adnotata
+
